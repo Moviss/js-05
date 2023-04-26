@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 5 - Obiekty
 
 ### Jak uruchomić?
 
